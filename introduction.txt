@@ -1,0 +1,5 @@
+## Brief Introduction About Myself
+
+My name is Ahmed. I have a strong interest in software development and I'm currently focused on becoming a full-stack engineer through continuous self-study and structured learning.
+
+I come from a small village in Egypt and have been passionate about technology since I was young. Despite limited resources, I've worked hard to develop my skills and now I am building projects, learning GitHub, and contributing to the tech community.
